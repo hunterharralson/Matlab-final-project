@@ -1,7 +1,10 @@
 function SocialSim
+% Runs a base simulation of a neighborhood with 36 individuals, 2 of which are short-fused, and with half of the people randomly assigned to be hostile 
+% The simulation is then displayed as the neighborhood evolves over 14 days
+
 rng('shuffle');
 % make a neighborhood 
-n = makeNeighborhood(6,6,9,0.35);
+n = makeNeighborhood(6,6,2,0.5);
 
 % evolve the neighborhood for 14 days and display each day:
 figure;
