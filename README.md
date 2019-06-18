@@ -4,7 +4,7 @@ A MATLAB reproduction from Kendrick, Li, and Butner's 2003 Social dynamical evol
 
 In this simulation, we are interested in the way that hostile individuals in a neighborhood can negatively affect their neighbors.
 Furthermore, we are interested in the way that peaceful individuals can positively affect their neighbors.
-An added element, number of short-fused individuals, also can affect the neighborhood negatively. 
+An added element, number of short-fused individuals, can also affect the neighborhood negatively. 
 
 The basic simulation (SocialSim) represents a 6x6 neighborhood of 36 individuals, in which 50% of them start off as hostile and 2 short-fused. 
 The neighborhood evolves each day, as each individual in the neighborhood has his/her attitude evolve based on the attitudes of his/her neighbors.
