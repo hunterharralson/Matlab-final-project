@@ -1,4 +1,9 @@
 function KLB_fig5
+% This function reproduces the simulations from Figure 5 of the experiment in which three graphs are presented. Each graph shows 10 simulations for every 0.03 proportion of hostile individuals from 0 to 100% hostile 
+% The three graphs:
+%   1) A simulation in which 0 individuals in the neighborhood are short-fused
+%   2) 9 individuals are short-fused
+%   3) 18 individuals are short-fused 
 
 figure;
 subplot(3,1,1);
