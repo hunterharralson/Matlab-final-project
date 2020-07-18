@@ -1,5 +1,5 @@
-# dynamic-evolutionary
-A MATLAB reproduction from Kendrick, Li, and Butner's 2003 Social dynamical evolutionary psychology experiment. 
+# MATLAB Final Project
+A reproduction from Kendrick, Li, and Butner's 2003 Social dynamical evolutionary psychology experiment. 
     (Dynamical Evolutionary Psychology: Individual Decision Rules and Emergent Social Norms)
 
 In this simulation, we are interested in the way that hostile individuals in a neighborhood can negatively affect their neighbors.
